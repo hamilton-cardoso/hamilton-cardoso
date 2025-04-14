@@ -2,8 +2,8 @@
   Hamilton Cardoso, Desenvolvedor de Software!
 
 <div align="center">
-	<img height="146em" src="https://github-readme-stats.vercel.app/api?username=hamilton-cardoso&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-	<img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamilton-cardoso&theme=dark&hide_border=false&&layout=compact"/>
+	<img height="146em" src="https://github-readme-stats.vercel.app/api?username=hamilton-cardoso&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true&v=1"/>
+	<img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamilton-cardoso&theme=dark&hide_border=false&&layout=compact&v=1"/>
 </div>
 
 ##
